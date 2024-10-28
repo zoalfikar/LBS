@@ -7,9 +7,9 @@ JAVA version 17.0.6
 ## Integrate API
 
 
-**Git clone  https://github.com/zoalfikar/library_managment_system.git**
+**Git clone  https://github.com/zoalfikar/LBS.git**
 
-**Cd library_managment_system**
+**Cd LBS**
 
 **Gradle build**or **.\ gradlew build**
   
